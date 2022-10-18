@@ -1,0 +1,14 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "64bit": {
+            "url": "http://github.com/jaxxstorm/connectme/releases/v0.0.1/connectme-v0.0.1-windows-amd64.zip",
+            "bin": [
+                "connectme.exe"
+            ],
+            "hash": "de06d4fab28335327a0b1ef76d4bc6c57b3e3bff827e02d9f95a1b6f693170d6"
+        }
+    },
+    "homepage": "https://leebriggs.co.uk/",
+    "description": "Quickly connect to your cloud infrastructure."
+}
