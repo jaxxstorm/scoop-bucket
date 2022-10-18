@@ -1,0 +1,14 @@
+{
+    "version": "1.3.0",
+    "architecture": {
+        "64bit": {
+            "url": "http://github.com/jaxxstorm/aws-sso-creds/releases/download/v1.3.0/aws-sso-creds-v1.3.0-windows-amd64.zip",
+            "bin": [
+                "aws-sso-creds.exe"
+            ],
+            "hash": "bde5f85b033e3ddb25e68569b7538be1825dc2e3ed0c90068704d6f5da518e0a"
+        }
+    },
+    "homepage": "https://leebriggs.co.uk/",
+    "description": "Helper utility to get temporary credentials from AWS SSO."
+}
