@@ -1,12 +1,12 @@
 {
-    "version": "1.3.1",
+    "version": "1.4.0",
     "architecture": {
         "64bit": {
-            "url": "http://github.com/jaxxstorm/aws-sso-creds/releases/download/v1.3.1/aws-sso-creds-v1.3.1-windows-amd64.zip",
+            "url": "http://github.com/jaxxstorm/aws-sso-creds/releases/download/v1.4.0/aws-sso-creds-v1.4.0-windows-amd64.zip",
             "bin": [
                 "aws-sso-creds.exe"
             ],
-            "hash": "65b19b80dbb4376efad90f35b64a2ffbf75f9ef01094d54408ab72a158578d0d"
+            "hash": "32e5a04a728787ddb1e3beb8a121e397a119600876bfaad57fb68bacc4494417"
         }
     },
     "homepage": "https://leebriggs.co.uk/",
