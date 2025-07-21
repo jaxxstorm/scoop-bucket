@@ -6,14 +6,14 @@
             "bin": [
                 "proxyt.exe"
             ],
-            "hash": "43d0f88321a4369faffa4972bd26c35c15018b61ff6a86842790fd32c93946ea"
+            "hash": "6f0865d39aef22b95149fd7ebccc1dc2e364aabc4b12050ccde5ecb00934f2cb"
         },
         "arm64": {
             "url": "https://github.com/jaxxstorm/proxyt/releases/download/v0.0.5/proxyt_0.0.5_windows_arm64.zip",
             "bin": [
                 "proxyt.exe"
             ],
-            "hash": "33babd5d271ce7bffafbc34333a009288737e9180a0033d154e654ed01d36d8f"
+            "hash": "ec7ddc6928e6c029b0dee47f1a1f97bddf1cfdbd0da9c704762d5244c8c86481"
         }
     },
     "homepage": "https://github.com/jaxxstorm/proxyt",
