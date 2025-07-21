@@ -1,19 +1,19 @@
 {
-    "version": "0.0.4",
+    "version": "0.0.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jaxxstorm/proxyt/releases/download/v0.0.4/proxyt_0.0.4_windows_amd64.zip",
+            "url": "https://github.com/jaxxstorm/proxyt/releases/download/v0.0.5/proxyt_0.0.5_windows_amd64.zip",
             "bin": [
                 "proxyt.exe"
             ],
-            "hash": "0c8b7f06d257720bb4601f71409639a1c20df98ee3c9b73ad4e55741344aaa2b"
+            "hash": "43d0f88321a4369faffa4972bd26c35c15018b61ff6a86842790fd32c93946ea"
         },
         "arm64": {
-            "url": "https://github.com/jaxxstorm/proxyt/releases/download/v0.0.4/proxyt_0.0.4_windows_arm64.zip",
+            "url": "https://github.com/jaxxstorm/proxyt/releases/download/v0.0.5/proxyt_0.0.5_windows_arm64.zip",
             "bin": [
                 "proxyt.exe"
             ],
-            "hash": "da082210e407068c64a36df39991f1c7601e1883725a2746aad1e06f08de1137"
+            "hash": "33babd5d271ce7bffafbc34333a009288737e9180a0033d154e654ed01d36d8f"
         }
     },
     "homepage": "https://github.com/jaxxstorm/proxyt",
